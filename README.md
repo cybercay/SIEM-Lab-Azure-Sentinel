@@ -63,7 +63,7 @@ The goal of this lab is to simulate a vulnerable environment in a controlled set
 ![VM Setup](screenshots/vm_setup.png)
 
 ### Microsoft Sentinel Log View
-![Sentinel Log View]()
+![Sentinel Log View](screenshots/microsoft_sentinel_log_view_10_hours.png)
 
 ### Threat Map - RDP Brute Force Attempts
 ![Threat Map](./screenshots/threat_map.png)
