@@ -66,7 +66,7 @@ The goal of this lab is to simulate a vulnerable environment in a controlled set
 ![Sentinel Dashboard]()
 
 ### Threat Map - RDP Brute Force Attempts
-![Threat Map]()
+![Threat Map](./screenshots/threat_map.png)
 
 ---
 
