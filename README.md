@@ -60,7 +60,7 @@ The goal of this lab is to simulate a vulnerable environment in a controlled set
 ## Screenshots
 
 ### VM Deployment
-![VM Setup]()
+![VM Setup](screenshots/vm_setup.png)
 
 ### Microsoft Sentinel Setup
 ![Sentinel Dashboard]()
